@@ -1,12 +1,4 @@
-## Hi there 👋
+## Framework for Remote Experiments in Education
+FREE (Framework for Remote Experiments in Education) is a novel system, that, using modern technologies, architectures, and programming practices, allows the easy development and integration of remote experiments. These scientific experiments can be executed using a regular browser from any part of the internet and at any moment.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The architecture provides a loose coupling between the infrastructure (FREE server) and the remote experiments, thus facilitating the development and deployment of new experiments.
